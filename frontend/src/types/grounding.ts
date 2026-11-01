@@ -1,0 +1,1 @@
+export type Electrode = {id:number;x:number;y:number;length:number;diameter:number};
